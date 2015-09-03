@@ -1,7 +1,7 @@
 '''
 	polynomial_derivative.py
 
-	Purpose: take in an array of Terms that represents a polynomial; e.g. 2x^2 + 3x + 4
+	Purpose: take in an array of Terms that represents a polynomial; e.g. 2x^2 + 3x + 4; and return it's derivative
 	Notes: currently does not support negative exponent, square roots or logarithms
 	Created: 09/03/2015 mlmartinez85@gmail.com
 '''
